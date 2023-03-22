@@ -36,7 +36,7 @@ Assignments:
 * [**Analyzing Police Traffic Stop Data**](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa7/index.html)
   * **Programming language**: Python
   * **Required tools/libraries**: Pandas.
-  * **Objective**: Analyze trends in traffic stops that occurred in the state of North Carolina from 2000 until 2015.
+  * **Objective**: Analyze trends in traffic stops that occurred in North Carolina between 2000-2015.
 
 ## Computer Science with Applications II
 Assignments:
@@ -48,4 +48,23 @@ Assignments:
 * [**Scraping Chicago Parks**](https://github.com/uchicago-capp122-winter23/pa2-benjaleivas/blob/main/README.md)
   * **Programming language**: Python, HTML.
   * **Required tools/libraries**: Webscraping.
-  * **Objective**: .
+  * **Objective**: Write a scraper that crawls a simulacrum of the Chicago Parks website to construct a search index.
+
+* [**Park Search Engine**](https://github.com/uchicago-capp122-winter23/pa3-benjaleivas/blob/main/README.md)
+  * **Programming language**: Python, SQL.
+  * **Required tools/libraries**: SQLite.
+  * **Objective**: Construct a search engine for park data from previous assignment.
+
+* [**Data Cleaning and Linkage**](https://github.com/uchicago-capp122-winter23/pa4-benjaleivas/blob/main/README.md)
+  * **Programming language**: Python.
+  * **Required tools/libraries**: Regex, named tuples.
+  * **Objective**: Use a Jaro-Winkler probabilistic approach to link records from two different datasets.
+
+* [**Decision Trees**](https://github.com/uchicago-capp122-winter23/pa5-benjaleivas/blob/main/README.md)
+  * **Programming language**: Python.
+  * **Required tools/libraries**: Classes, recursion.
+  * **Objective**: Implement a decision tree classifier.
+
+## Machine Learning for Public Policy
+Assignments:
+* TBD
