@@ -63,7 +63,7 @@ Assignments:
 * [**Decision Trees**](https://github.com/uchicago-capp122-winter23/pa5-benjaleivas/blob/main/README.md)
   * **Programming language**: Python.
   * **Required tools/libraries**: Classes, recursion.
-  * **Objective**: Implement a decision tree classifier.
+  * **Objective**: Implement a decision tree classifier to predict risk of having diabetes based on personal features.
 
 ## Machine Learning for Public Policy
 Assignments:
