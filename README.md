@@ -15,15 +15,15 @@ Programming assignments for graduate-level computer science courses. Code is ava
 
 * [**Analyzing Candidate Tweets**](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa3/index.html)
   * **Programming language**: Python
-  * **Required tools/libraries**: Dictionaries, functions, data cleaning.
+  * **Required tools/libraries**: Dictionaries, functions.
   * **Objective**: Find tokens and identify patterns in tweets of the four main UK political parties.
 
 * [**Polling Places**](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa4/index.html)
   * **Programming language**: Python
-  * **Required tools/libraries**: Classes, methods, data cleaning.
+  * **Required tools/libraries**: Classes, methods.
   * **Objective**: Simulate flow of voters through assignment of voting booths to precincts and time spent by voters in voting lines.
  
- * [**Linear Regression**](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa5/index.html)
+* [**Linear Regression**](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa5/index.html)
   * **Programming language**: Python
   * **Required tools/libraries**: Numpy.
   * **Objective**: Evaluate bivariate and multivariate models to predict California's housing market prices.
