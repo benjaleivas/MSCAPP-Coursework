@@ -2,7 +2,7 @@
 Programming assignments for graduate-level computer science courses. Code is available upon request, feel free to email me at bleiva@uchicago.edu.
 
 ## Computer Science with Applications I
-
+Assignments:
 * [**Modeling Epidemics**](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa1/index.html)
   * **Programming language**: Python
   * **Required tools/libraries**: Control flow statements (conditionals & loops), lists, tuples, strings.
@@ -33,13 +33,13 @@ Programming assignments for graduate-level computer science courses. Code is ava
   * **Required tools/libraries**: Classes, trees, recursion.
   * **Objective**: Build a multilevel treemap of bird species using recursive methods on trees.
 
-* [**Analyzing police traffic stop data**](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa7/index.html)
+* [**Analyzing Police Traffic Stop Data**](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa7/index.html)
   * **Programming language**: Python
   * **Required tools/libraries**: Pandas.
   * **Objective**: Analyze trends in traffic stops that occurred in the state of North Carolina from 2000 until 2015.
 
 ## Computer Science with Applications II
-
+Assignments:
 * [**Markovian Candidate**](https://github.com/uchicago-capp122-winter23/pa1-benjaleivas/blob/main/README.md)
   * **Programming language**: Python
   * **Required tools/libraries**: Markov model, data structures.
@@ -47,5 +47,5 @@ Programming assignments for graduate-level computer science courses. Code is ava
 
 * [**Scraping Chicago Parks**](https://github.com/uchicago-capp122-winter23/pa2-benjaleivas/blob/main/README.md)
   * **Programming language**: Python, HTML.
-  * **Required tools/libraries**: .
+  * **Required tools/libraries**: Webscraping.
   * **Objective**: .
