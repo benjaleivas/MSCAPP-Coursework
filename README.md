@@ -39,3 +39,13 @@ Programming assignments for graduate-level computer science courses. Code is ava
   * **Objective**: Analyze trends in traffic stops that occurred in the state of North Carolina from 2000 until 2015.
 
 ## Computer Science with Applications II
+
+* [**Markovian Candidate**](https://github.com/uchicago-capp122-winter23/pa1-benjaleivas/blob/main/README.md)
+  * **Programming language**: Python
+  * **Required tools/libraries**: Markov model, data structures.
+  * **Objective**: Build a Markov model for speaker attribution using a hash table implemented with linear probing.
+
+* [**Scraping Chicago Parks**](https://github.com/uchicago-capp122-winter23/pa2-benjaleivas/blob/main/README.md)
+  * **Programming language**: Python, HTML.
+  * **Required tools/libraries**: .
+  * **Objective**: .
