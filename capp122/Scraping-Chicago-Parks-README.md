@@ -1,4 +1,4 @@
-# Scraping Chicago Parks
+# # CAPP 30122 - Programming Assignment #2 - Scraping Chicago Parks
 
 Over the course of the next few assignments, you will build parts of an application that allows people to look up information on city parks in Chicago.
 
