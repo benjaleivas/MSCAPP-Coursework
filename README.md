@@ -40,27 +40,27 @@ Assignments:
 
 ## Computer Science with Applications II
 Assignments:
-* [**Markovian Candidate**](https://github.com/uchicago-capp122-winter23/pa1-benjaleivas/blob/main/README.md)
+* [**Markovian Candidate**](https://github.com/benjaleivas/MSCAPP-Coursework/blob/main/capp122/Markovian-Candidate-README.md)
   * **Programming language**: Python
   * **Required tools/libraries**: Markov model, data structures.
   * **Objective**: Build a Markov model for speaker attribution using a hash table implemented with linear probing.
 
-* [**Scraping Chicago Parks**](https://github.com/uchicago-capp122-winter23/pa2-benjaleivas/blob/main/README.md)
+* [**Scraping Chicago Parks**](https://github.com/benjaleivas/MSCAPP-Coursework/blob/main/capp122/Scraping-Chicago-Parks-README.md)
   * **Programming language**: Python, HTML.
   * **Required tools/libraries**: Webscraping.
   * **Objective**: Write a scraper that crawls a simulacrum of the Chicago Parks website to construct a search index.
 
-* [**Park Search Engine**](https://github.com/uchicago-capp122-winter23/pa3-benjaleivas/blob/main/README.md)
+* [**Park Search Engine**](https://github.com/benjaleivas/MSCAPP-Coursework/blob/main/capp122/Park-Search-Engine-README.md)
   * **Programming language**: Python, SQL.
   * **Required tools/libraries**: SQLite.
   * **Objective**: Construct a search engine for park data from previous assignment.
 
-* [**Data Cleaning and Linkage**](https://github.com/uchicago-capp122-winter23/pa4-benjaleivas/blob/main/README.md)
+* [**Data Cleaning and Linkage**](https://github.com/benjaleivas/MSCAPP-Coursework/blob/main/capp122/Data-Cleaning-%26-Linkage-README.md)
   * **Programming language**: Python.
   * **Required tools/libraries**: Regex, named tuples.
   * **Objective**: Use a Jaro-Winkler probabilistic approach to link records from two different datasets.
 
-* [**Decision Trees**](https://github.com/uchicago-capp122-winter23/pa5-benjaleivas/blob/main/README.md)
+* [**Decision Trees**](https://github.com/benjaleivas/MSCAPP-Coursework/blob/main/capp122/Decision-Trees-README.md)
   * **Programming language**: Python.
   * **Required tools/libraries**: Classes, recursion.
   * **Objective**: Implement a decision tree classifier to predict risk of having diabetes based on personal features.
