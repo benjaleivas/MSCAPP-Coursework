@@ -1,4 +1,4 @@
-# Park Search Engine
+# CAPP 30122 - Programming Assignment #3 - Park Search Engine
 
 For this assignment, we'll be building a search engine for the park data collected in the last assignment.
 
