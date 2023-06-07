@@ -67,4 +67,22 @@ Assignments:
 
 ## Machine Learning for Public Policy
 Assignments:
-* TBD
+* [**Decision Trees and KNN**](https://github.com/benjaleivas/MSCAPP-Coursework/blob/main/capp254/Decision-Trees-%26-KNN.ipynb)
+  * **Programming language**: Python.
+  * **Required tools/libraries**: Scikit learn, Numpy, Pandas.
+  * **Objective**: Implement a decision tree classifier to predict person's holding of college degree based on personal features, and K-nearest neighbors to predict type of crime based on location.
+
+* [**Perceptron**](https://github.com/benjaleivas/MSCAPP-Coursework/blob/main/capp254/Perceptrons.ipynb)
+  * **Programming language**: Python.
+  * **Required tools/libraries**: Numpy, Pandas.
+  * **Objective**: Manually implement a Perceptron linear classifier.
+
+* [**Logistic Regression and Stochastic Gradient Descent**](https://github.com/benjaleivas/MSCAPP-Coursework/blob/main/capp254/Logistic-Regression-%26-SGD.ipynb)
+  * **Programming language**: Python.
+  * **Required tools/libraries**: Numpy, Pandas.
+  * **Objective**: Manually implement a Logistic Regression classifier using an SGD approach to find optimal parameters.
+
+* [**Neural Network**](https://github.com/benjaleivas/MSCAPP-Coursework/blob/main/capp254/Neural-Networks.ipynb)
+  * **Programming language**: Python.
+  * **Required tools/libraries**: Pytorch.
+  * **Objective**: Develop a neural network by manually implementing forward and back propagation using SGD, while testing different activation and loss functions. 
